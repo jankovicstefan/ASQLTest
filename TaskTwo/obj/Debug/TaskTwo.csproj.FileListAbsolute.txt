@@ -1,0 +1,5 @@
+D:\PROJECTS\ApexSQLTest\TaskTwo\bin\Debug\TaskTwo.dll
+D:\PROJECTS\ApexSQLTest\TaskTwo\bin\Debug\TaskTwo.pdb
+D:\PROJECTS\ApexSQLTest\TaskTwo\obj\Debug\TaskTwo.dll
+D:\PROJECTS\ApexSQLTest\TaskTwo\obj\Debug\TaskTwo.pdb
+D:\PROJECTS\ApexSQLTest\TaskTwo\obj\Debug\TaskTwo.csprojResolveAssemblyReference.cache

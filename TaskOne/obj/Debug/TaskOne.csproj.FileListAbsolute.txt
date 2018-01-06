@@ -1,0 +1,6 @@
+D:\PROJECTS\ApexSQLTest\TaskOne\bin\Debug\TaskOne.exe.config
+D:\PROJECTS\ApexSQLTest\TaskOne\bin\Debug\TaskOne.exe
+D:\PROJECTS\ApexSQLTest\TaskOne\bin\Debug\TaskOne.pdb
+D:\PROJECTS\ApexSQLTest\TaskOne\obj\Debug\TaskOne.csprojResolveAssemblyReference.cache
+D:\PROJECTS\ApexSQLTest\TaskOne\obj\Debug\TaskOne.exe
+D:\PROJECTS\ApexSQLTest\TaskOne\obj\Debug\TaskOne.pdb

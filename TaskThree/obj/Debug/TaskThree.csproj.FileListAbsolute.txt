@@ -1,0 +1,11 @@
+D:\PROJECTS\ApexSQLTest\TaskThree\bin\Debug\TaskThree.exe.config
+D:\PROJECTS\ApexSQLTest\TaskThree\bin\Debug\TaskThree.exe
+D:\PROJECTS\ApexSQLTest\TaskThree\bin\Debug\TaskThree.pdb
+D:\PROJECTS\ApexSQLTest\TaskThree\bin\Debug\TaskTwo.dll
+D:\PROJECTS\ApexSQLTest\TaskThree\bin\Debug\TaskTwo.pdb
+D:\PROJECTS\ApexSQLTest\TaskThree\obj\Debug\TaskThree.csprojResolveAssemblyReference.cache
+D:\PROJECTS\ApexSQLTest\TaskThree\obj\Debug\TaskThree.Properties.Resources.resources
+D:\PROJECTS\ApexSQLTest\TaskThree\obj\Debug\TaskThree.csproj.GenerateResource.Cache
+D:\PROJECTS\ApexSQLTest\TaskThree\obj\Debug\TaskThree.exe
+D:\PROJECTS\ApexSQLTest\TaskThree\obj\Debug\TaskThree.pdb
+D:\PROJECTS\ApexSQLTest\TaskThree\obj\Debug\TaskThree.Form1.resources
